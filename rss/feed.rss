@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>IDE</title>
+        <description>News about different IDEs</description>
+        <link>http://example.org/</link>
+        <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+        <managingEditor>a22lauracv@iessanclemente.net</managingEditor>
+        <item>
+            <title>Eclipse</title>
+            <link>https://a22lauracv.github.io/projectRSS</link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Tricks on eclipse</description>
+        </item>
+        <item>
+            <title>Netbeans</title>
+            <link></link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Tricks on eclipse</description>
+        </item>
+    </channel>
+</rss>
